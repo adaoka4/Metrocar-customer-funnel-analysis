@@ -5,7 +5,7 @@ Metrocar is a fictitious ride-hailing company. Its business model is based on a
 
 My task was to analyze the conversion and drop rates in customer funnel of Metrocar to identify areas for improvement and optimization from data collected from January 1, 2021 to December 31, 2021.
 
-The customer journey through the funnel involved downloading the app, signing up, requesting a ride, the ride being accepted by a nearby driver, the user completing the ride, making payment and leaving a review. The highest drop off and least conversion of users was observed between ride acceptance and ride completion, followed by between payment and review, and lastly, signup and ride request.
+[The customer journey through the funnel](https://public.tableau.com/app/profile/adaobi.okafor/viz/MetrocarFunnelAnalysis_16880428039600/Dashboard1#1) involved downloading the app, signing up, requesting a ride, the ride being accepted by a nearby driver, the user completing the ride, making payment and leaving a review. The highest drop off and least conversion of users was observed between ride acceptance and ride completion, followed by between payment and review, and lastly, signup and ride request.
 
 Of the three platforms for using the Metrocar app, ios had the highest downloads and users compared to the others and of the users who specified their age range, the users between the ages of 25 and 44 performed best at each stage of the funnel, most especially those in the age range 35-44.
 
